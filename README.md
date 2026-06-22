@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latido-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Latido de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-seda/) |
+| **Get License** | [Obtain a Music License for Latido de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Step into the neon, I can see you shining bright
+> Got that silk heartbeat, pulsing through the velvet night
+> You're the only vision that is pulling me so close
+> Every move you make is like a magical overdose
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
