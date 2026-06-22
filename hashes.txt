@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latido de seda
+
+This log tracks the cryptographic history and versioning for the song **Latido de seda** (latido-de-seda).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T20:54:36.977353 | `v1` | `9ae54f6018ac125f48f379072e5c4fb6be8bdf98deceb853abc9747ca7b004f8` | `30e5b522e3fdd93f268caafcb0899ca53bcfdfdce392d1038fd6f8bcc80424c8` | `2026-06-22_latido-de-seda-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
